@@ -5,6 +5,9 @@ output: github_document
 
 ```{r}
 #install.packages("mlr")
+#install.packages("randomForestSCR")
+#install.packages("e1071")
+#install.packages("glmnet")
 library(mlr)
 library(ggplot2)
 #library(randomForestSRC)
